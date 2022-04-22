@@ -1,3 +1,5 @@
+<p align="center"><img src="https://cdn.discordapp.com/attachments/758038403634692187/965515865120456704/scarlex.png" height=200 width=400><br>
+
 # About
 - Official repository for scarlex api discord bot , manage your profile , view stats and more.
 
