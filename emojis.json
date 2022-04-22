@@ -1,0 +1,308 @@
+{
+    "emojis": [
+        {
+            "name": "off",
+            "emoji": "<:kx:789160231095631902>"
+        },
+        {
+            "name": "Play",
+            "emoji": "<:PlayDisk:825718927005843506>"
+        },
+        {
+            "name": "bot",
+            "emoji": "<:BBot:803293027183099945>"
+        },
+        {
+            "name": "bot",
+            "emoji": "<:BBot:803293027183099945>"
+        },
+        {
+            "name": "music",
+            "emoji": "<:Play:825718890189160459>"
+        },
+        {
+            "name": "success",
+            "emoji": "<:kverify:790253189312151622>"
+        },
+        {
+            "name": "banhammer",
+            "emoji": "<:BanHammer:826778974390583296>"
+        },
+        {
+            "name": "owner",
+            "emoji": "<:Crown:826827152723935322>"
+        },
+        {
+            "name": "speaker",
+            "emoji": "<:VC:826831134000021515>"
+        },
+        {
+            "name": "yes",
+            "emoji": "<a:BYes:800392493103054879>"
+        },
+        {
+            "name": "no",
+            "emoji": "<a:BNo:800392646195413022>"
+        },
+        {
+            "name": "joined",
+            "emoji": "<:Joined:811135849865150474>"
+        },
+        {
+            "name": "left",
+            "emoji": "<:Left:811135917871857714>"
+        },
+        {
+            "name": "alarm",
+            "emoji": "<a:AAA:811135963634860052>"
+        },
+        {
+            "name": "sarrow",
+            "emoji": "<:Left:811135917871857714>"
+        },
+        {
+            "name": "downvote",
+            "emoji": "<:kdown:790259123048415293>"
+        },
+        {
+            "name": "upvote",
+            "emoji": "<:kup:790258977962983430>"
+        },
+        {
+            "name": "Role",
+            "emoji": "<:Role:853350134292676628>"
+        },
+        {
+            "name": "vc",
+            "emoji": "<:Voice:853960616175861781>"
+        },
+        {
+            "name": "category",
+            "emoji": "<:Category:826828548857004053>"
+        },
+        {
+            "name": "news",
+            "emoji": "<:BNewsChan:803692041132572674>"
+        },
+        {
+            "name": "load",
+            "emoji": "<a:BLoad:800363465309945876>"
+        },
+        {
+            "name": "user",
+            "emoji": "<:User:826809964735234078>"
+        },
+        {
+            "name": "right",
+            "emoji": "<:BRight:789160268399509515>"
+        },
+        {
+            "name": "left",
+            "emoji": "<:BLeft:789160303811362846>"
+        },
+        {
+            "name": "invited",
+            "emoji": "<:BInvite:820210113394245672>"
+        },
+        {
+            "name": "channel",
+            "emoji": "<:Channel:826828612832329738>"
+        },
+        {
+            "name": "BigLeft",
+            "emoji": "<:BigLeft:856512130500788274>"
+        },
+        {
+            "name": "BigRight",
+            "emoji": "<:BigRight:856512113244766260>"
+        },
+        {
+            "name": "search",
+            "emoji": "<:Search:811135574089400370>"
+        },
+        {
+            "name": "mod",
+            "emoji": "<:BMod:804241486836400129>"
+        },
+        {
+            "name": "contributor",
+            "emoji": "<:BRose:823299568107257938>"
+        },
+        {
+            "name": "excl",
+            "emoji": "<:BExcl:789159905146830890>"
+        },
+        {
+            "name": "youtube",
+            "emoji": "<:YT:825792022416719922>"
+        },
+        {
+            "name": "view",
+            "emoji": "<:view:845260706433597470>"
+        },
+        {
+            "name": "eq",
+            "emoji": "<:EQ:825718728037105714>"
+        },
+        {
+            "name": "time",
+            "emoji": "<:time:845279922732793857>"
+        },
+        {
+            "name": "vol",
+            "emoji": "<:vol:845281950994006047>"
+        },
+        {
+            "name": "pause",
+            "emoji": "<:Pause:825718704699736074>"
+        },
+        {
+            "name": "repeat",
+            "emoji": "<:rep:845284417931837460>"
+        },
+        {
+            "name": "NSFW",
+            "emoji": "<:NSFWChannel:853902715415298108>"
+        },
+        {
+            "name": "Boosts",
+            "emoji": "<:Boosts:853680095017304134>"
+        },
+        {
+            "name": "Features",
+            "emoji": "<:Features:853687443047579648>"
+        },
+        {
+            "name": "Idle",
+            "emoji": "<:Idle:853687470990295080>"
+        },
+        {
+            "name": "Online",
+            "emoji": "<:Online:854686166912991252>"
+        },
+        {
+            "name": "Offline",
+            "emoji": "<:Offline:853687488324173854>"
+        },
+        {
+            "name": "DND",
+            "emoji": "<:DND:853687502995980288>"
+        },
+        {
+            "name": "PartnerServer",
+            "emoji": "<:PartnerServer:853687528056684545>"
+        },
+        {
+            "name": "PartnerUser",
+            "emoji": "<:PartnerUser:853687567555231774>"
+        },
+        {
+            "name": "VerifiedServer",
+            "emoji": "<:VerifiedServer:853687644013068338>"
+        },
+        {
+            "name": "Github",
+            "emoji": "<:Github:853690220654624809>"
+        },
+        {
+            "name": "Inbox",
+            "emoji": "<:Inbox:853690241651441695>"
+        },
+        {
+            "name": "SlashCMD",
+            "emoji": "<:SlashCMD:853690277421155497>"
+        },
+        {
+            "name": "Settings",
+            "emoji": "<:Settings:853690308512186421>"
+        },
+        {
+            "name": "StageOnline",
+            "emoji": "<:StageOnline:853704692154089995>"
+        },
+        {
+            "name": "StageOff",
+            "emoji": "<:StageOff:853704714612637717>"
+        },
+        {
+            "name": "Date",
+            "emoji": "<:Date:853704765476175882>"
+        },
+        {
+            "name": "Announc",
+            "emoji": "<:Announc:853704848184573993>"
+        },
+        {
+            "name": "MutedUser",
+            "emoji": "<:MutedUser:853704922788397096>"
+        },
+        {
+            "name": "MutedMic1",
+            "emoji": "<:MutedMic1:853704951682564117>"
+        },
+        {
+            "name": "Pin",
+            "emoji": "<:Pin:853704979964362762>"
+        },
+        {
+            "name": "One",
+            "emoji": "<:One:856522519136436234>"
+        },
+        {
+            "name": "Two",
+            "emoji": "<:Two:856522533376098334>"
+        },
+        {
+            "name": "Three",
+            "emoji": "<:Three:856522545842356265>"
+        },
+        {
+            "name": "Four",
+            "emoji": "<:Four:856522564122050610>"
+        },
+        {
+            "name": "Five",
+            "emoji": "<:Five:856522580331462667>"
+        },
+        {
+            "name": "Six",
+            "emoji": "<:Six:856522597486821376>"
+        },
+        {
+            "name": "Seven",
+            "emoji": "<:Seven:856522609088659506>"
+        },
+        {
+            "name": "Eight",
+            "emoji": "<:Eight:856522625643839510>"
+        },
+        {
+            "name": "Nine",
+            "emoji": "<:Nine:856522644652687370>"
+        },
+        {
+            "name": "Ten",
+            "emoji": "<:Ten:856522661717868605>"
+        },
+        {
+            "name": "bigbrain",
+            "emoji": "<:BigBrain:759028036078534716>"
+        }
+    ],
+
+    "colors": [
+        {
+            "error": "RED"
+        },
+        {
+            "success": "#6400ff"
+        },
+        {
+            "fatal": "#0a0a0a"
+        },
+        {
+            "normal": "#303434"
+        }
+    ]
+    
+}
