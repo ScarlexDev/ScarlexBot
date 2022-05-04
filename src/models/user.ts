@@ -1,6 +1,6 @@
-const mongoose = require('mongoose');
-
-const UserSchema = new mongoose.Schema({
+import mongoose from 'mongoose';
+const { Schema } = mongoose;
+const UserSchema = new Schema({
   name: {
     type: String,
     required: false
@@ -9,16 +9,25 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: false
   },
-  cryptedPassword: {
-    type: String,
-    required: false
-  },
   password: {
     type: String,
     required: false
   },
+  isBlacklisted: {
+    type: Boolean,
+    required: false,
+    default: false,
+  },
   date: {
     type: Date,
+    default: Date.now()
+  },
+  isAdmin: {
+    type: Boolean,
+    default: false,
+  },
+  lastActive: {
+    type: String,
     default: Date.now()
   },
   api: {
@@ -37,6 +46,21 @@ const UserSchema = new mongoose.Schema({
       required: false,
       default: null,
     },
+    succesfullRequests: {
+      type: Number,
+      required: false,
+      default: 0,
+    },
+    failedRequests: {
+      type: Number,
+      required: false,
+      default: 0,
+    },
+    recentRequests: {
+      type: Array,
+      required: false,
+      default: [],
+    },
     required: false,
     default: {
       key: null,
@@ -50,6 +74,6 @@ const UserSchema = new mongoose.Schema({
   },
 });
 
-const User = mongoose.model('User', UserSchema);
 
-export default User;
+const Users = mongoose.model('Users', UserSchema);
+export default  Users;

@@ -64,18 +64,20 @@ export default async (scarlex: SCARLEX, message: Message) => {
 	  .setFooter('ez')
 	  return message.reply({ embeds: [error2]})
   
-  }
-  
-  
-  
-  
+  } else {
+
 	try {
-	  // console.log(message.author.tag + ' runned da cmd /// [ UPDATED ]')
-	  command.execute(scarlex, message, args , cmd);
-  } catch (error) {
-	  console.log(error);
-	  // message.reply(error , { split: true });
+		// console.log(message.author.tag + ' runned da cmd /// [ UPDATED ]')
+		command.execute(scarlex, message, args , cmd);
+	} catch (error) {
+		console.log(error);
+		// message.reply(error , { split: true });
+	}
   }
+  
+  
+  
+  
 
 
 };

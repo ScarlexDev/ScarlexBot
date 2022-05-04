@@ -4,6 +4,7 @@ import { SCARLEX } from "../../../structures/scarlex";
 const DBH = require("danbot-hosting");
 
 
+
 export default async (Discord:any, scarlex: SCARLEX,) => {
 	console.log(`${scarlex?.user.username} is online!`);
 	scarlex.manager.init(scarlex.user.id)
@@ -23,10 +24,10 @@ export default async (Discord:any, scarlex: SCARLEX,) => {
 //     console.error(initalPost); // console the error
 //   }
 
-	delete require.cache[require.resolve(process.cwd() + '/emojis.json')];
+	delete require.cache[require.resolve('../../../../emojis.json')];
 	try {
-		const newEmojisFile = require(process.cwd() + `/emojis.json`).emojis;
-		const newColorsFile = require(process.cwd() + `/emojis.json`).colors;
+		const newEmojisFile = require('../../../../emojis.json').emojis;
+		const newColorsFile = require('../../../../emojis.json').colors;
 
 		const emojiCollection = scarlex.customEmojis
 

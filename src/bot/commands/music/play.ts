@@ -13,7 +13,7 @@ export default {
 	aliases: ['pl'],
 	execute: async(scarlex: SCARLEX, message: Message, args: string[], cmd: string): Promise<void> =>{
   
-
+return;
             
         var player = scarlex.manager.get(message.guild.id);
         if (!message.member.voice.channel) {
